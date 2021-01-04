@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Cbl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Cbl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
